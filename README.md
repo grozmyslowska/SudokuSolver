@@ -3,7 +3,7 @@ It's a program solving sudoku puzzles implemented with Constrained Satisfaction 
 
 # Description
 
-This program is about solving a sudoku puzzle. The goal is to complete the 9 × 9 diagram so that in each row, column, and in each of the nine 3 × 3 squares there is one digit from 1 to 9. The problem is solved by constrained satisfaction problem (CSP). The solution to the CSP problem is any combination of values such that all constraints are satisfied. There may or may not be a solution to the CSP problem, or there may be multiple solutions. The purpose of the search may be to find one arbitrary solution, all solutions, or the optimal solution in terms of any given cost function. In the case of a sudoku puzzle, there should be only one solution, but in case of very advanced ones could not.
+This program is about solving a sudoku puzzle. The goal is to complete the 9 × 9 diagram so that in each row, column, and in each of the nine 3 × 3 squares there is one digit from 1 to 9. The problem is solved by constrained satisfaction problem (CSP). The solution to the CSP problem is any combination of values such that all constraints are satisfied. There may or may not be a solution to the CSP problem, or there may be multiple solutions. The purpose of the search may be to find one arbitrary solution, all solutions, or the optimal solution in terms of any given cost function. In the case of a sudoku puzzle, there should be only one solution.
 
 # Functions
 
